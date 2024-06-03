@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: escape
+Version: 1.1
+Summary: Simple Terminal Styling for Python
+Home-page: https://github.com/skabbass1/escape
+Author: Syed K Abbas
+Author-email: syed.k.abbas1988@gmail.com
+License: MIT
+Download-URL: https://github.com/skabbass1/escape/archive/1.1.tar.gz
+Keywords: terminal-colors,ansi,terminal-emulators,ansi-escape-codes,command-line,console,color,cli
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+
+UNKNOWN
+
+

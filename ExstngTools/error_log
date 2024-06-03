@@ -1,0 +1,73 @@
+[16-Feb-2023 19:08:09 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[07-Mar-2023 13:19:28 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[07-Mar-2023 13:19:59 Asia/Kolkata] PHP Warning:  file_get_contents(https://languagetool.org/api/v2/check): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home4/reachshj/public_html/apps/essay-editor/phproofreading.class.php on line 25
+[07-Mar-2023 13:19:59 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/reachshj/public_html/apps/essay-editor/result.php on line 111
+[07-Mar-2023 13:19:59 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[07-Mar-2023 13:19:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[01-Jun-2023 13:17:47 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[11-Jun-2023 17:01:15 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[11-Jun-2023 17:01:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[11-Jun-2023 17:01:15 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[11-Jun-2023 17:01:15 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[20-Jun-2023 17:21:13 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[21-Jul-2023 15:35:44 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[21-Jul-2023 15:35:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[21-Jul-2023 15:35:44 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[21-Jul-2023 15:35:44 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[22-Jul-2023 16:13:48 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[22-Jul-2023 16:13:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[22-Jul-2023 16:13:48 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[22-Jul-2023 16:13:48 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[13-Aug-2023 12:41:36 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[13-Aug-2023 12:41:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[13-Aug-2023 12:41:36 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[13-Aug-2023 12:41:36 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[31-Aug-2023 11:18:07 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[31-Aug-2023 11:18:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[31-Aug-2023 11:18:07 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[31-Aug-2023 11:18:07 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[15-Oct-2023 22:00:51 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[15-Oct-2023 22:00:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[15-Oct-2023 22:00:51 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[15-Oct-2023 22:00:51 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[25-Oct-2023 13:13:09 Asia/Kolkata] PHP Warning:  file_get_contents(https://languagetool.org/api/v2/check): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/reachshj/public_html/apps/essay-editor/phproofreading.class.php on line 25
+[25-Oct-2023 13:13:09 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/reachshj/public_html/apps/essay-editor/result.php on line 111
+[25-Oct-2023 13:13:09 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[25-Oct-2023 13:13:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[25-Oct-2023 13:13:09 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[30-Jan-2024 20:08:38 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[07-Mar-2024 22:06:31 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[07-Mar-2024 22:06:31 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[07-Mar-2024 22:06:31 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[21-Apr-2024 06:32:28 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[21-Apr-2024 06:32:28 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[21-Apr-2024 06:32:28 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[24-Apr-2024 01:45:43 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[24-Apr-2024 01:45:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[24-Apr-2024 01:45:43 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[24-Apr-2024 01:45:43 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[25-Apr-2024 18:49:59 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[25-Apr-2024 18:50:02 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[11-May-2024 06:03:24 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[11-May-2024 06:03:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[11-May-2024 06:03:24 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[11-May-2024 06:03:24 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[15-May-2024 18:10:17 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[15-May-2024 18:10:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[15-May-2024 18:10:17 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[15-May-2024 18:10:17 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[18-May-2024 13:07:38 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[18-May-2024 13:07:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[18-May-2024 13:07:38 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[18-May-2024 13:07:38 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[18-May-2024 13:22:09 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[18-May-2024 13:22:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[18-May-2024 13:22:09 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[18-May-2024 13:22:09 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[18-May-2024 13:22:45 Asia/Kolkata] PHP Warning:  krsort() expects parameter 1 to be array, null given in /home4/reachshj/public_html/apps/essay-editor/result.php on line 210
+[18-May-2024 13:22:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home4/reachshj/public_html/apps/essay-editor/result.php on line 213
+[18-May-2024 13:22:45 Asia/Kolkata] PHP Warning:  Division by zero in /home4/reachshj/public_html/apps/essay-editor/result.php on line 266
+[18-May-2024 13:22:45 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
+[24-May-2024 12:19:52 Asia/Kolkata] PHP Warning:  unlink(uploads/newfile.txt): No such file or directory in /home4/reachshj/public_html/apps/essay-editor/result.php on line 531
